@@ -15,12 +15,12 @@
 
 body, html {
     background-color: #401d57;
-    height: 100vh;
+    height: 100dvh;
     width: 100vw;
 }
 
 main {
-    height: 100vh;
+    height: 100dvh;
     width: 100vw;
     display: flex;
     flex-flow: row nowrap;
